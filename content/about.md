@@ -71,5 +71,5 @@ draft: false
 - Fly Fishing
 - Cross Country Skiing
 - Connoisseur of IPAs
-- Hopelessly routing for the Browns
+- Hopelessly rooting for the Browns
 - Less-hopelessly cheering on the Packers
