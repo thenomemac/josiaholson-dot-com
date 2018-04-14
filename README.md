@@ -1,4 +1,5 @@
-# josiaholson-dot-com
+# JosiahOlson.com Person Site
+## josiaholson-dot-com
 
 View live build of this repo at: [josiaholson.com](http://josiaholson.com/)
 
