@@ -1,6 +1,6 @@
 # josiaholson-dot-com
 
-View live build of this repo at: josiaholson.com
+View live build of this repo at: [josiaholson.com](http://josiaholson.com/)
 
 To preview locally for developement:
 
