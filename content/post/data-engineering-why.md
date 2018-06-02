@@ -11,7 +11,7 @@ tags:
 - ETL
 - opinion
 slug: data-engineering-why
-thumbnailImage: /images/whatismyfish.png
+thumbnailImage: /images/hadoop-logo.png
 thumbnailImagePosition: right
 ---
 
