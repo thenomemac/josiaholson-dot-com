@@ -35,9 +35,10 @@ In many data sources, I've seen a categorical variable lazily stored in the DB a
 
 Countless times I've observed that the most important features in my ML models are discovered bycareful analysis of the data engineering pipeline. **Missing data or messy data can be a valuable model feature.** Data Engineers must understand how the final data product will be used, or the "cleaned" data will be a lossy product that's not optimal for the final algorithm being used to model. 
 
-One more aside, logging input/output statistics from the model's PROD API is the most important ways to ensure deployed models are actully working as expected. Data Scientists (ML engineers) must know how to instrament their models with the platforms metric and logging infra-structure. The line between data engineering and ML engineering becomings extremely fuzzy when you start thinking about this feedback loop.
+One more aside, logging input/output statistics from the model's PROD API is the most important way to ensure deployed models are actully working as expected. Data Scientists (ML engineers) must know how to instrament their models with the platforms metric and logging infra-structure. The line between data engineering and ML engineering becomes extremely fuzzy, considering, this feedback loop.
 
 Closing points:
+
 - Hire Data Engineers and provide training/mentoring so they know what features are useful in the modeling pipeling
 - Provide a path for Data Engineers (Jr Data Scientists) to grow and move to Sr Roles
 - Long live the data-scientist-data-engineer.
