@@ -23,11 +23,11 @@ Data Engineering is the most important job title in your company that should hav
 
 Please take everything said here as an opinon piece meant to be thought provoking.
 
-Definition: in this article "data engineer" is refering to the ETL or data wrangling process. **If you're a data engineer building data infastructure and re-usable software components to empower the data science team, then I'm not refering to you.**
+Definition: in this article "data engineer" is refering to the "ETL" consultant to the Data Science Team. **If you're a data engineer building data infastructure and re-usable software components to empower the data science team, then please keep doing that.**
 
 First, I want to start off by stating that "data engineering" is the most important role in any data driven company. Second, I don't think that a company needs any head count with that job role.
 
-My assertion is that data engineering is a subset of data science (ML engineering or whatever you want to call it). In a theoretical world, the data engineer should clean up the dataset, into a perfect and clean CSV format, then deliver the artifact twhoo the Data Scientist  uses `pd.read_csv` and does magic ML from the cleaned up data. However, in reality the data is much more complex than that. Many of the most important features for ML models are discovered in the data engineering (ETL) process. This means that your data engineers need to know what information in the source PROD data is (and isn't) useful in the modeling process. If the data ETL requires knowing about the ML pipeline than your companies data engineer is actually a data sceintist.
+My assertion is that data engineering is a subset of data science (ML engineering or whatever you want to call it). In some theoretical corporate job description world, the data engineer should clean up the dataset, land the output as a "clean" CSV format, then deliver the artifact to the Data Science team. Data Scientists read the clean data with `pd.read_csv` and apply some ML magic. However, in reality the data "munging process" is much more complex than that. Many of the most important features for ML models are discovered in the data engineering (ETL) process. This means that your data engineers need to know what information in the source PROD data is (and isn't) useful in the modeling process. If the data ETL requires knowing about the ML pipeline than your companies data engineer is actually a data sceintist.
 
 ## A concrete example
 
@@ -35,6 +35,9 @@ In many data sources, I've seen a categorical variable lazily stored in the DB a
 
 Countless times I've observed that the most important features in my ML models are discovered bycareful analysis of the data engineering pipeline. **Missing data or messy data can be a valuable model feature.** Data Engineers must understand how the final data product will be used, or the "cleaned" data will be a lossy product that's not optimal for the final algorithm being used to model. 
 
-One more aside, recoding streaming statistics on the ML model's input data is one of the most important ways to ensure deployed models are actully working as expected. Data Scientists (ML engineers) must know how to instrament their models with the companies streaming metirc infra-structure. The line between data engineering and ML engineering becomings extremely fuzzy when you start thinking about this feedback loop.
+One more aside, logging input/output statistics from the model's PROD API is the most important ways to ensure deployed models are actully working as expected. Data Scientists (ML engineers) must know how to instrament their models with the platforms metric and logging infra-structure. The line between data engineering and ML engineering becomings extremely fuzzy when you start thinking about this feedback loop.
 
-I say long live the data-scientist-data-engineer.
+Closing points:
+- Hire Data Engineers and provide training/mentoring so they know what features are useful in the modeling pipeling
+- Provide a path for Data Engineers (Jr Data Scientists) to grow and move to Sr Roles
+- Long live the data-scientist-data-engineer.
