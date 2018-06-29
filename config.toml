@@ -42,7 +42,7 @@ canonifyurls = true
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://pbs.twimg.com/profile_images/949823414784741376/qkaksgrM_400x400.jpg"
-  picture = "https://media.licdn.com/dms/image/C5103AQHgfzim3W5e-w/profile-displayphoto-shrink_200_200/0?e=1528830000&v=beta&t=AjdRiQXBGGSaQkIjSafgxPtQNfalmm80vHVjlY3PfVY"
+  picture = "/images/josiah-head.jpg"
   # Your Twitter username without the @. E.g : tranquilpeak
   twitter = "thenome"
   email = "thenomemac@gmail.com"
