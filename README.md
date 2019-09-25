@@ -7,7 +7,7 @@ To preview locally for developement:
 ```bash
 # install hugo: https://github.com/gohugoio/hugo
 git submodule update --init --recursive
-hugo serve --baseURL localhost
+hugo serve --baseURL http://localhost
 # site is now up at: http://localhost:1313/
 ```
 

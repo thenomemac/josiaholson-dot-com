@@ -20,9 +20,10 @@ draft: false
 </h4>
 
 ## Work Experience
-**Data Scientist Senior -> Lead, Progressive Insurance**
+**Data Scientist Lead, Progressive Insurance**
 <p align="right">2016 - Present</p>
-<p style="margin-left:2em">A full stack engineering role. From gathering business requirements to interpreting analysis results. Ongoing Data Science experience in this role: extract insight from “black box” algorithms, AWS/Hadoop experience, advanced polyglot data pipelines, reproducible research, machine learning with unstructured data (deep learning), production machine vision models and deployment to scalable web apps and apis.</p>
+<p style="margin-left:2em">Currently, Josiah is a member of the Usage Based Insurance team at Progressive. He takes raw sensor data and turns it into a custom insurance rate for millions of drivers. These data pipelines and models run in production and at scale in an enterprise environment. 
+**Generalities:** A full stack Machine Learning Engineer role. From gathering business requirements to interpreting analysis results. Ongoing Data Science experience in this role: extract insight from “black box” algorithms, AWS/Hadoop experience, advanced polyglot data pipelines, reproducible research, machine learning with unstructured data (deep learning), production machine vision models and deployment to scalable web apps and apis.</p>
 
 **R&D Analyst, Progressive**
 <p align="right">2015 - 2016</p>
