@@ -47,6 +47,7 @@ Top Beers:
 - Rhinegeist Brewery Truth IPA
 
 Cleveland East Side Parks:
+
 - Girdled Road Reservation
 - Chardon Living Memorial
 - Claridon Woodlands
@@ -61,9 +62,9 @@ Vacations:
 
 - Traverse City
 - Olympic Peninsula
-- Taking a sabbatical to work on my personal projects
+- Taking a sabbatical to work on my personal projects (I wish!)
 
-Python libraries you should be using:
+Python libraries you should be using but aren't:
 
 - tqdm
 - vyper-config
@@ -81,7 +82,7 @@ Youtube Channels:
 - GOTO Conference, StrangeLoop, FOSDEM (yes I'm grouping these as one, deal!)
 - L2inc
 
-Twitter:
+Twitter Personalities:
 
 - @fchollet
 - @jeremyphoward
