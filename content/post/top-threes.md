@@ -46,43 +46,43 @@ Top Beers:
 - Thirsty Dog 12 Dogs of Christmas
 - Rhinegeist Brewery Truth IPA
 
-Cleveland East Side Parks:
+Top Cleveland East Side Parks:
 
 - Girdled Road Reservation
 - Chardon Living Memorial
 - Claridon Woodlands
 
-TV Shows:
+Top TV Shows:
 
 - Mr. Robot
 - The Grand Tour / Top Gear
 - All or Nothing NFL
 
-Vacations:
+Top Vacations:
 
 - Traverse City
 - Olympic Peninsula
 - Taking a sabbatical to work on my personal projects (I wish!)
 
-Python libraries you should be using but aren't:
+Top Python libraries you should be using but aren't:
 
 - tqdm
 - vyper-config
 - bokeh
 
-Deep Learning:
+Top Deep Learning Hacks:
 
 - Batch Norm
 - Adam and its Descendants
 - Embedding one-to-many data by the model architecture
 
-Youtube Channels:
+Top Youtube Channels:
 
 - Jeremy Howard: fast.ai
 - GOTO Conference, StrangeLoop, FOSDEM (yes I'm grouping these as one, deal!)
 - L2inc
 
-Twitter Personalities:
+Top Twitter Personalities:
 
 - @fchollet
 - @jeremyphoward
