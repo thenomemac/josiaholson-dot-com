@@ -1,5 +1,7 @@
 # JosiahOlson.com Person Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ddf01df-ba7a-438c-b70a-4c593256bdd6/deploy-status)](https://app.netlify.com/sites/sad-ptolemy-a395bd/deploys)
+
 View live build of this repo at: [josiaholson.com](https://josiaholson.com/)
 
 To preview locally for developement:
